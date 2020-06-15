@@ -397,3 +397,15 @@ C:\Users\cs17020\Documents\2_first\創造的プログラミング\complete\1010-
 C:\Users\cs17020\Documents\2_first\創造的プログラミング\complete\1010-02jima\server\obj\Debug\server.pdb
 C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\obj\Debug\server.exe
 C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\obj\Debug\server.pdb
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\bin\Debug\server.exe.config
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\bin\Debug\server.exe
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\bin\Debug\server.pdb
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\bin\Debug\MyUtil.dll
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\bin\Debug\MyUtil.pdb
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\bin\Debug\Microsoft.Kinect.xml
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\obj\Debug\server.Form1.resources
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\obj\Debug\server.Properties.Resources.resources
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\obj\Debug\server.csproj.GenerateResource.cache
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\cs17020\Documents\univ\B2_first\創造的プログラミング\complete\paint_game\server\obj\Debug\server.csproj.CopyComplete
