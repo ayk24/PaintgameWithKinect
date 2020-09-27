@@ -1,4 +1,4 @@
-paintgame_with_kinect
+PaintgameWithKinect
 ====
 ### Paint Game with Kinect
 <img src="https://github.com/ayk24/paintgame_with_kinect/blob/master/doc/app.png" width=50%>
