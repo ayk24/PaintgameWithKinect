@@ -2,6 +2,7 @@
 
 ## Description
 <img src="https://github.com/ayk24/paintgame_with_kinect/blob/master/doc/app.png" width=50%>
+
 It's a game where you can use Kinect to draw a picture with your body and guess what it is.
 
 You can change colors by waving your left wrist left or right, and you can actually draw a picture with your right hand.
